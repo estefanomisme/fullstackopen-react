@@ -1,3 +1,3 @@
 # React projects
 
-Bootcamp exercises from: [fullstackopen.com](fullstackopen.com)
+Bootcamp exercises from: [fullstackopen.com](https://fullstackopen.com/)
